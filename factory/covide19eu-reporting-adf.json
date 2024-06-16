@@ -1,0 +1,9 @@
+{
+	"name": "covide19eu-reporting-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ecc43ef-29fe-410e-9567-ebe00d45655c",
+		"tenantId": "302f6764-a2e9-4fe7-8fdc-984e84413f98"
+	}
+}
